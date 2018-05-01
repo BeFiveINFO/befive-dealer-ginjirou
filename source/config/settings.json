@@ -1,0 +1,17 @@
+{
+	"play_be_net_url": "http://127.0.0.1/playbe/index.php",
+	"show_company_logo_flash": true,
+	"game_attraction_sound": true,
+	"mute_sound": "false",
+	"game_difficulty": "normal",
+	"price_decale": 0,
+	"free_play": false,
+	"test_switch": false,
+	"initial_credits": 1000,
+	"replenishment_credits": 100,
+	"replenishment_max": 1000,
+	"replenishment_every": 600,
+	"adProvider_url": "https://pubads.g.doubleclick.net/gampad/live/ads?sz=480x320|640x480&iu=/71893984/test_ad_play_be_00&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]",
+	"use_adBanner": true,
+	"serial_number": "BE-DG-1000"
+}

@@ -1,0 +1,32 @@
+{
+	"name": "dealer-ginjirou",
+	"version": "0.0.1",
+	"author": {
+		"name":"BeFive",
+		"url": "http://befive.info"
+	},
+	"description": "An ancient dice gambling game",
+	"main": "deploy/index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.5",
+		"grunt-contrib-concat": "*",
+		"grunt-csscomb": "*",
+		"grunt-combine-media-queries": "*",
+		"grunt-compass": "*",
+		"grunt-contrib-clean": "*",
+		"grunt-contrib-copy": "*",
+		"grunt-contrib-cssmin": "*",
+		"grunt-contrib-htmlmin": "*",
+		"grunt-contrib-livereload": "*",
+		"grunt-contrib-uglify": "*",
+		"grunt-contrib-watch": "*",
+		"grunt-open": "*",
+		"grunt-contrib-connect": "*",
+		"grunt-autoprefixer": "*",
+		"grunt-banner": "*",
+		"grunt-text-replace": "*"
+	}
+}

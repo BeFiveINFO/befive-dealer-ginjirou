@@ -1,0 +1,854 @@
+{
+	"frames": {
+
+		"f-Ase_o_fuku_onna2": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"f-beedro_bizin": {
+			"frame": {
+				"x": 150,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"f-KitagawaUtamaro_FlowersOfEdo": {
+			"frame": {
+				"x": 300,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"f-komagomenasu": {
+			"frame": {
+				"x": 450,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"f-sushi": {
+			"frame": {
+				"x": 600,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"f-tanabata21": {
+			"frame": {
+				"x": 750,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"f-woman_looking_at_toy": {
+			"frame": {
+				"x": 0,
+				"y": 200,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"f-woman_reading": {
+			"frame": {
+				"x": 150,
+				"y": 200,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"a-animal": {
+			"frame": {
+				"x": 300,
+				"y": 200,
+				"w": 150,
+				"h": 199
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 199
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 199
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"a-bakemono": {
+			"frame": {
+				"x": 450,
+				"y": 200,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"a-bakemono_2": {
+			"frame": {
+				"x": 600,
+				"y": 200,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"a-cat": {
+			"frame": {
+				"x": 750,
+				"y": 200,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"a-dog": {
+			"frame": {
+				"x": 0,
+				"y": 400,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-engei": {
+			"frame": {
+				"x": 150,
+				"y": 400,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"a-fox": {
+			"frame": {
+				"x": 300,
+				"y": 400,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-fushimi_ningyo_zu_l": {
+			"frame": {
+				"x": 450,
+				"y": 400,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-goemon": {
+			"frame": {
+				"x": 600,
+				"y": 400,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-hikeshi15_m": {
+			"frame": {
+				"x": 750,
+				"y": 400,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-hikeshi18_m": {
+			"frame": {
+				"x": 0,
+				"y": 600,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-hikeshi27_1_m": {
+			"frame": {
+				"x": 150,
+				"y": 600,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-hikeshi27_2_m": {
+			"frame": {
+				"x": 300,
+				"y": 600,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-Hiroshige_par_Kunisada": {
+			"frame": {
+				"x": 450,
+				"y": 600,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-kabuki": {
+			"frame": {
+				"x": 600,
+				"y": 600,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-Kunisada_Sumo_Triptychon_c1860s": {
+			"frame": {
+				"x": 750,
+				"y": 600,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-ninja": {
+			"frame": {
+				"x": 0,
+				"y": 800,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"a-obake": {
+			"frame": {
+				"x": 150,
+				"y": 800,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"a-oni": {
+			"frame": {
+				"x": 300,
+				"y": 800,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-ronin": {
+			"frame": {
+				"x": 450,
+				"y": 800,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-samurai": {
+			"frame": {
+				"x": 600,
+				"y": 800,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-sharaku1": {
+			"frame": {
+				"x": 750,
+				"y": 800,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-sharaku94": {
+			"frame": {
+				"x": 0,
+				"y": 1000,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-sumo_wrestler": {
+			"frame": {
+				"x": 150,
+				"y": 1000,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-ukiyoe": {
+			"frame": {
+				"x": 300,
+				"y": 1000,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-warrior": {
+			"frame": {
+				"x": 450,
+				"y": 1000,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"m-yoshitoshi_onogawa_1865": {
+			"frame": {
+				"x": 600,
+				"y": 1000,
+				"w": 150,
+				"h": 200
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 150,
+				"h": 200
+			},
+			"sourceSize": {
+				"w": 150,
+				"h": 200
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	},
+	"meta": {
+		"image": "avatars.jpg",
+		"format": "RGBA8888",
+		"size": {
+			"w": 900,
+			"h": 1200
+		},
+		"scale": "1"
+	}
+}

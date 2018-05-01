@@ -1,0 +1,14 @@
+// see http://thesassway.com/beginner/how-to-structure-a-sass-project for best practice of Basic directory structure
+// The modules directory is reserved for Sass code that doesn't cause Sass to actually output CSS.
+@import "partials/base"; // imports for all mixins + global project variables
+
+// The partials directory is where the meat of my CSS is constructed.
+@import "partials/reset";
+@import "partials/fonts";
+@import "partials/typography";
+@import "partials/buttons";
+@import "partials/figures";
+@import "partials/grids";
+@import "partials/game";
+
+// The vendor directory is for third-party CSS.

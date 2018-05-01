@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Documentation</title>
+</head>
+<body>
+
+	/*
+		The following array contains all the possible winning companinations
+		Each payline is searched for a winning combination.
+	*/
+	'winning_combinations': {
+		/*
+			the triple cherries is searched first to eliminate duplicated detections
+		*/
+		'three_cherries':'cherry-cherry-cherry', // 3 Cherries
+		/*
+			two pairs
+		*/
+		'two_cherries':'((.*?)-cherry-cherry)|(cherry-cherry-(.*?))|(cherry-(.*?)-cherry)', // 2 Cherries
+		/*
+			finally single cherry
+		*/
+		'cherry':'((.*?)-(.*?)-cherry)|((.*?)-cherry-(.*?))|(cherry-(.*?)-(.*?))', // 1 Cherry
+		/*
+			three pairs
+		*/
+ 		'seven':'seven-seven-seven', // 3 Sevens
+		'bell':'bell-bell-bell', // 3 Bells
+		'bar':'bar-bar-bar', // 3 Bars
+		'prune':'prune-prune-prune', // 3 Prunes
+		'orange':'orange-orange-orange', // 3 Oranges
+
+	},
+
+
+</body>
+</html>
