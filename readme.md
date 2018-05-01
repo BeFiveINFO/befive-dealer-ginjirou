@@ -1,5 +1,9 @@
 # Dealer Ginjirou
 
+## Live Demo
+
+[Dealer Ginjirou Live Demo site](http://play.befive.info/dealer-ginjirou/)
+
 ## How to Install the main game program
 
 First make sure that you have node.js and gruntjs installed and working properly.
@@ -12,7 +16,8 @@ First make sure that you have node.js and gruntjs installed and working properly
 
 ## LICENSE
 
-MIT otherwise listed below.
+# MIT
+* otherwise listed below.
 
 #### Graphics
 - Aoyagi Reisho Font by Musashi System
@@ -24,6 +29,13 @@ MIT otherwise listed below.
 
 #### Sound
 - Kurage Kosho: distributes public domain sounds which you can use for absolutely free as long as you do not violate laws by using them.
+- Sound tracks used for the live demo are not included in this open source code. The sound tracks are sold at audio stock websites.
+   - [Japanese Enka Music Loop 0:37](https://123rf.com/audio_78635422_an-abstract-music-loop-imitating-japanese-enka-music.html)
+   - [Japanese Cherry Blossom Song 0:14](https://www.pond5.com/stock-music/82165331/sakura.html)
+   - [Prosperous Asian City Short Music Loop 0:09](https://123rf.com/audio_78635427_music-describing-a-busy-japanese-city-with-koto-and-taiko-drums.html)
+   - [Japanese Historical Performance Opening 0:07](https://123rf.com/audio_78635425_percussions-for-letting-audiences-know-that-there-is-a-performance-beginning-now.html)
+   - [Japanese Koto Game Over Music 0:05](https://123rf.com/audio_78635424_game-over-music-in-the-ancient-japanese-style-with-japanese-koto-please-be-advised-that-the-bpm-is-n.html)
+   - [Japanese Festival Short Music Loop 0:06](https://www.pond5.com/stock-music/82165339/japanese-festival-loop-music.html)
 
 ### Fonts
 - KiriFont (c) 2013, Pablo Lizardo (<www.pablolizardo.com.ar|pablo_lizardo@yahoo.com.ar>),
