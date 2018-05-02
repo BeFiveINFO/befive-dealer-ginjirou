@@ -54,7 +54,7 @@ PCB.screen = {
 		// scaling
 		Game.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
 		Game.scale.fullScreenScaleMode = Phaser.ScaleManager.SHOW_ALL;
-		Game.stage.disableVisibilityChange = true; // let the game stop when the tab or window is inactive
+		Game.stage.disableVisibilityChange = true; // do not let the game stop when the tab or window is inactive
 		Game.scale.minWidth = Game.width/2;
 		Game.scale.minHeight = Game.height/2;
 		Game.scale.pageAlignHorizontally = true;
