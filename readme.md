@@ -20,6 +20,9 @@ First make sure that you have node.js and gruntjs installed and working properly
 * otherwise listed below.
 
 #### Graphics
+- The logo of Befive info is a property of BeFive. Please feel free to replace the logo with your own when you publish.
+- The fictional character, Dealer Ginjirou (壺振り師・銀次郎) is a property of BeFive Info. Please use your own character in place of Ginjirou when you publish your game after modification.
+- The voices used in this game are all properties of BeFive. You can use for your games without any alteration to the files.
 - Aoyagi Reisho Font by Musashi System
 - wargo Pattern: free Japanese style patterns, vector materials, and generally textile patterns.
 - GAHAG: distributes public domain stock images, photos and illustrations.
