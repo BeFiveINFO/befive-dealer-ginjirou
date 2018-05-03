@@ -17,13 +17,15 @@ First make sure that you have node.js and gruntjs installed and working properly
 ## LICENSE
 
 # MIT
-* otherwise listed below.
+
+Copyright (c) 2013 Shu Miyao (BeFive Info)
+Released under the MIT license otherwise listed below:
 
 #### Character
-- The fictional character, Dealer Ginjirou (壺振り師・銀次郎), Doumoto - Inazuma no Kahei (胴元・稲妻の嘉平), and Nakabon no Sadakichi (中盆の定吉) are a property of BeFive Info. Please use your own character in place of Ginjirou when you publish your game after modification.
+- The fictional character, Dealer Ginjirou (壺振り師・銀次郎), Doumoto - Inazuma no Kahei (胴元・稲妻の嘉平), and Nakabon no Sadakichi (中盆の定吉) are properties of Shu Miyao. Please use your own characters.
 
 #### Graphics
-- The logo of Befive info is a property of BeFive. Please feel free to replace the logo with your own when you publish.
+- The logo of Befive info is a property of Shu Miyao. Please feel free to replace the logo with your own when you publish.
 - Aoyagi Reisho Font by Musashi System
 - wargo Pattern: free Japanese style patterns, vector materials, and generally textile patterns.
 - GAHAG: distributes public domain stock images, photos and illustrations.
@@ -33,7 +35,7 @@ First make sure that you have node.js and gruntjs installed and working properly
 
 #### Sound
 - Kurage Kosho: distributes public domain sounds which you can use for absolutely free as long as you do not violate laws by using them.
-- The voices used in this game are all properties of BeFive. In the free open source version, the voices have been removed.
+- The voices used in this game are all properties of Shu Miyao. In the free open source version, the voices have been removed.
 - Sound tracks used for the live demo are not included in this open source code. The sound tracks are sold at audio stock websites.
    - [Japanese Enka Music Loop 0:37](https://123rf.com/audio_78635422_an-abstract-music-loop-imitating-japanese-enka-music.html)
    - [Japanese Cherry Blossom Song 0:14](https://www.pond5.com/stock-music/82165331/sakura.html)
