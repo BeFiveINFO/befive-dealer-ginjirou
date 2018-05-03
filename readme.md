@@ -22,10 +22,10 @@ Copyright (c) 2013 Shu Miyao (BeFive Info)
 Released under the MIT license otherwise listed below:
 
 #### Character
-- The fictional character, Dealer Ginjirou (壺振り師・銀次郎), Doumoto - Inazuma no Kahei (胴元・稲妻の嘉平), and Nakabon no Sadakichi (中盆の定吉) are properties of Shu Miyao. Please use your own characters.
+- The fictional character, Dealer Ginjirou (壺振り師・銀次郎), Doumoto - Inazuma no Kahei (胴元・稲妻の嘉平), and Nakabon no Sadakichi (中盆の定吉) are properties of Shu Miyao. Please use your own characters when you publish this game as yours.
 
 #### Graphics
-- The logo of Befive info is a property of Shu Miyao. Please feel free to replace the logo with your own when you publish.
+- The logo of Befive info is a property of Shu Miyao. Please feel free to replace the logo with your own when you publish this game as yours.
 - Aoyagi Reisho Font by Musashi System
 - wargo Pattern: free Japanese style patterns, vector materials, and generally textile patterns.
 - GAHAG: distributes public domain stock images, photos and illustrations.
