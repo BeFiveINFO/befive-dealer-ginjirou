@@ -18,7 +18,7 @@ First make sure that you have node.js and gruntjs installed and working properly
 
 # MIT
 
-Copyright (c) 2017-2018 Shu Miyao (BeFive Info) (* see LICENSE.md)
+Copyright (c) 2017-2018 Shu Miyao (BeFive Info) (* see LICENSE.txt)
 Released under the MIT license otherwise listed below:
 
 #### Character
