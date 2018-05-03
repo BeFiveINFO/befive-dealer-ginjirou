@@ -25,13 +25,13 @@ Released under the MIT license otherwise listed below:
 - The fictional character, Dealer Ginjirou (壺振り師・銀次郎), Doumoto - Inazuma no Kahei (胴元・稲妻の嘉平), and Nakabon no Sadakichi (中盆の定吉) are properties of Shu Miyao. Please use your own characters when you publish this game as yours.
 
 #### Graphics
-- The logo of Befive info is a property of Shu Miyao. Please feel free to replace the logo with your own when you publish this game as yours.
-- Aoyagi Reisho Font by Musashi System
+- The logo of Befive info is a property of Shu Miyao. Please replace the logo with your own when you publish this game as yours.
+- Aoyagi Reisho Font is a property of Musashi System
 - wargo Pattern: free Japanese style patterns, vector materials, and generally textile patterns.
 - GAHAG: distributes public domain stock images, photos and illustrations.
 - Free Texture Sozai-kan: distributes public domain texture images.
-- Hokusai Manga (wikipedia): a sort of clip art collection magazines published from 1814 to 1878.
-- Ukiyo-e (wikipedia): woodblock art prints which were popular from the 17th through 19th centuries.
+- Hokusai Manga: a sort of clip art collection magazines published from 1814 to 1878 and are now in the public domain.
+- Ukiyo-e: woodblock art prints which were popular from the 17th through 19th centuries and are now in the public domain.
 
 #### Sound
 - Kurage Kosho: distributes public domain sounds which you can use for absolutely free as long as you do not violate laws by using them.
